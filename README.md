@@ -41,7 +41,7 @@ This project is released under an [open-source license](https://en.wikipedia.org
 # لایسنس:
 این پروژه تحت یک [لایسنس متن باز](https://en.wikipedia.org/wiki/Open-source_license) منتشر شده است.
 ---
-![info](NotCoin_edit_1058287658319834.jpg)
+![info](Screenshot_20240412_220513.jpg)
 
 ---
 <p align="center">
