@@ -1,5 +1,5 @@
 
-![info](IMG_20240329_222458_059_edit_1056632215608278.jpg)
+![info](IMG_20240412_231609_611_edit_1818387563927118.jpg)
 
 # TapSwap-MinerBot:
 >Telegram Bot for 24/7 TapSwap-MinerBot Miner
